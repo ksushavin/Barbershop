@@ -1,0 +1,17 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+.section {
+  padding-top: 130px;
+  padding-bottom: 130px;
+  background-color: aqua;
+}
+
+.container {
+  width: 1200px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: tomato;
+}
